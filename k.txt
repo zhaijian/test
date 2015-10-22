@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 sadf
 local edit
 server edit
+=======
+sadf
+>>>>>>> parent of 792ff5f... Update k.txt
